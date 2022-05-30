@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="upload_notice">Upload Notice</string>
+</resources>

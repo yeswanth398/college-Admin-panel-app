@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "297847568307",
+    "firebase_url": "https://dinajpur-polytechnicinstitute-default-rtdb.firebaseio.com",
+    "project_id": "dinajpur-polytechnicinstitute",
+    "storage_bucket": "dinajpur-polytechnicinstitute.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297847568307:android:d57eed2898017a3cf5fdc6",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297847568307-nuuq1fvsi5r49qerq24q1iffmnn8sruq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1rDPsgNWQkge5vFRmwBKqSlnHyLmMtH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297847568307-nuuq1fvsi5r49qerq24q1iffmnn8sruq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297847568307:android:d7d21baa9489b26cf5fdc6",
+        "android_client_info": {
+          "package_name": "com.example.dpiadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297847568307-nuuq1fvsi5r49qerq24q1iffmnn8sruq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1rDPsgNWQkge5vFRmwBKqSlnHyLmMtH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297847568307-nuuq1fvsi5r49qerq24q1iffmnn8sruq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
